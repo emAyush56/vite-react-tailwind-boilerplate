@@ -8,4 +8,4 @@ Boilerplate for `react/tailwind`.
 
 # note
 
-- Change the package name. The default package name is `vite-react-tailwind-boilerplate`.
+- Change the package name to your project-name. The default package name is `vite-react-tailwind-boilerplate`.
